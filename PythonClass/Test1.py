@@ -1,1 +1,3 @@
-__author__ = 'viso'
+__author__ = 'viso'\
+
+print ("Hello World")
